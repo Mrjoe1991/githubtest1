@@ -5,3 +5,7 @@ def func1():
 
 def fun2():
     print('修复bug')
+
+def func3():
+    print('开发新功能到一半')
+
