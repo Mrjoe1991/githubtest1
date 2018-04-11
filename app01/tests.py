@@ -4,4 +4,4 @@ def func1():
     print('func1')
 
 def fun2():
-    print('存在bug')
+    print('修复bug')
