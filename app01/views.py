@@ -8,3 +8,6 @@ def gittest2():
 
 def func():
     print('新功能')
+
+def func2():
+    print('新功能2基础进行')
