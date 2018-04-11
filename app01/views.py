@@ -5,3 +5,6 @@ def gittest():
 
 def gittest2():
     pass
+
+def func():
+    print('新功能')
