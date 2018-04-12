@@ -10,4 +10,4 @@ def func():
     print('新功能')
 
 def func2():
-    print('本地新功能2继续进行')
+    print('其他地方新功能2继续进行')
